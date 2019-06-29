@@ -1,0 +1,80 @@
+body{
+	margin:0;
+
+}
+.wrapper{
+	background: antiquewhite;
+	width: 1200px;
+	margin: auto;
+}
+.one{
+	width: 33.33%;
+	
+	   
+	float:left; 
+	margin-bottom:15px;
+	padding:0 5px;
+	box-sizing:border-box; 
+}
+.blue {background-color: skyblue;
+	height: 100px;
+	padding: 15px;
+	box-sizing: 5px 5px 10px ;
+}	
+
+.two{width: 100%;
+	
+	float:left; 
+	margin-bottom:15px;
+	padding:0 5px;
+	box-sizing:border-box; 
+	}
+	.orange{background-color: orange;
+	height: 100px;
+	padding: 15px;
+	box-sizing: 5px 5px 10px ;
+}
+
+.three{width: 50%;
+	
+	background-color: #8BC34A;
+	float:left; 
+	margin-bottom:0 5px;
+	padding:15px;
+	box-sizing:border-box; 
+	}
+	.parple{height: 100px;
+	background-color: #8BC34A;
+
+padding: 15px;
+box-sizing: 5px 5px 10px ;
+	}
+.four{width: 59%;
+	
+	background-color: blue;
+	float:left; 
+	margin-bottom:15px;
+	padding:0 5px;
+	box-shadow:5 
+	}
+	.gray{height: 100px;
+	background-color: gray;
+padding: 15px;
+box-sizing: 5px 5px 10px ;}
+.five{width: 20%;
+
+	background-color: blue;
+	float:left; 
+	margin-bottom:15px;
+	padding:0 5px;
+	box-sizing:border-box; 
+	}
+	.seegreen{
+		height: 100px;
+	background-color: blue;
+padding: 15px;
+box-sizing: 5px 5px 10px ;
+}
+h1{
+	margin: 0;
+}
